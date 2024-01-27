@@ -12,7 +12,7 @@
       🛠 Exploring new features in the latest Java releases.
       📚 Diving into advanced topics in Spring Framework.
       🚀 Learning more about containerization and orchestration with Docker and Kubernetes.
-      🔐 Enhancing my knowledge of cybersecurity best practices.
+      🔐 Enhancing my knowledge of cybersecurity best practices. 
   
 - 💞️ I’m looking to collaborate on ...
       🤝 Open-source Java projects that promote clean code and best practices.
